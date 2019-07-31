@@ -1,0 +1,20 @@
+So this is the basic setup for the beginning of the SDL Engine
+
+A 2D platformer
+
+For simplistic means I have made
+the player or character you control
+a simple white box.
+
+Starting the app drops the white box in from above.
+
+Arrow keys left and right move respectivly.
+Up jumps.
+The p key toggles from full screen and back to windowed.
+
+If you click with the mouse it will
+drop a random colored long rectangle platform box.
+They will stack and you can jump around and up onto
+the platforms for fun.
+
+Enjoy!
